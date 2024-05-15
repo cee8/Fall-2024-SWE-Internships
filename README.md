@@ -4,7 +4,7 @@ Welcome to the Summer 2025 Internship Opportunities board! Below is a table list
 
 ## Internship Listings
 
-| Internship Title | Role | Location | Status | Date Posted |
+| Company | Role | Location | Status | Date Posted |
 |------------------|------|----------|--------|-------------|
 | [Software Engineer Intern at Company A](https://link-to-job-posting.com) | Software Engineer | San Francisco, CA | Open | 2024-05-15 |
 | [Data Analyst Intern at Company B](https://link-to-job-posting.com) | Data Analyst | New York, NY | Open | 2024-05-14 |
