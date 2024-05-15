@@ -6,10 +6,10 @@ Welcome to the Summer 2025 Internship Opportunities board! Below is a table list
 
 | Company | Role | Location | Status | Date Posted |
 |------------------|------|----------|--------|-------------|
-| [Software Engineer Intern at Company A](https://link-to-job-posting.com) | Software Engineer | San Francisco, CA | Open | 2024-05-15 |
-| [Data Analyst Intern at Company B](https://link-to-job-posting.com) | Data Analyst | New York, NY | Open | 2024-05-14 |
-| [Product Manager Intern at Company C](https://link-to-job-posting.com) | Product Manager | Remote | Closed | 2024-05-13 |
-| [UI/UX Designer Intern at Company D](https://link-to-job-posting.com) | UI/UX Designer | Austin, TX | Open | 2024-05-12 |
+| [Software Engineer Intern at Company A](https://link-to-job-posting.com) | Software Engineer | San Francisco, CA | Open | May 15 |
+| [Data Analyst Intern at Company B](https://link-to-job-posting.com) | Data Analyst | New York, NY | Open | May 15 |
+| [Product Manager Intern at Company C](https://link-to-job-posting.com) | Product Manager | Remote | Closed | May 15 |
+| [UI/UX Designer Intern at Company D](https://link-to-job-posting.com) | UI/UX Designer | Austin, TX | Open | May 15 |
 
 ## Contributing
 
