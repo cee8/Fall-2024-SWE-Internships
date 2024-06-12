@@ -7,6 +7,8 @@ Welcome to the Summer 2025 Internship Opportunities board! Below you'll find a c
 | Company | Role | Location | Status | Date Posted |
 |---------|------|----------|--------|-------------|
 | [Capstone Investment Advisors](https://www.linkedin.com/jobs/view/3935094651) | Software Engineering Intern | New York, NY (Hybrid) | ✔️ Open | 1 week ago |
+| [Susquehanna International Group, LLP (SIG)](https://www.linkedin.com/jobs/view/3935094651) | Software Engineering Intern | Greater Philadelphia (On-site) | ✔️ Open | 2 weeks ago |
+
 
 ## Internship Spotlight: Capstone Investment Advisors
 
