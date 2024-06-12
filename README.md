@@ -1,4 +1,4 @@
-# 🌟 Summer 2025 Internship Opportunities
+# Summer 2025 Internship Opportunities
 
 Welcome to the Summer 2025 Internship Opportunities board! Below you'll find a comprehensive list of internships across various roles and locations. This board is community-driven, so feel free to contribute by submitting a pull request.
 
