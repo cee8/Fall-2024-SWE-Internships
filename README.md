@@ -10,6 +10,7 @@ Welcome to the Summer 2025 Internship Opportunities board! Below you'll find a c
 | [Capstone Investment Advisors](https://www.linkedin.com/jobs/view/3935094651) | Software Engineering Intern | New York, NY (Hybrid) | ✔️ Open | ~Jun 3 |
 | [Susquehanna International Group, LLP (SIG)](https://www.linkedin.com/jobs/view/3935094651) | Software Engineering Intern | Greater Philadelphia (On-site) | ✔️ Open | ~May 28 |
 | [Ventas, Inc.](https://www.linkedin.com/jobs/view/3933764183) | Software Engineering Intern | Chicago, IL (On-site) | ✔️ Open | ~May 28 |
+| [Tesla](https://www.linkedin.com/jobs/view/3950983460) | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA (On-site) | ✔️ Open | ~Jun 14 |
 
 
 
