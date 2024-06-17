@@ -1,6 +1,6 @@
 # Fall 2024 Internship Opportunities
 
-Welcome to the Summer 2025 Internship Opportunities board! Below you'll find a comprehensive list of internships across various roles and locations. This board is community-driven, so feel free to contribute by submitting a pull request.
+Welcome to the Fall 2024 Internship Opportunities board! Below you'll find a comprehensive list of internships across various roles and locations. This board is community-driven, so feel free to contribute by submitting a pull request.
 
 ## 📋 Internship Listings
 
@@ -15,10 +15,6 @@ Welcome to the Summer 2025 Internship Opportunities board! Below you'll find a c
 | [Ventas, Inc.](https://www.linkedin.com/jobs/view/3933764183) | Software Engineering Intern | Chicago, IL (On-site) | ✔️ Open | ~May 28 |
 
 
-## Internship Spotlight: Capstone Investment Advisors
-
-### About the Job
-Capstone’s 2025 Summer Internship is a 10-week summer program. You will be given a project that is both educational and a value add to the business. At the end of the summer, you will present your project to the senior leadership team. Throughout the program, you will attend educational sessions given by senior leadership, participate in team-building exercises, and engage in relationship building with the firm. The program concludes with a send-off lunch to thank you for your hard work.
 
 ### Department
 The IT development team creates applications and technical tools for different teams within the firm. These applications include investment management tools for traders, systems to automatically process trades, tools for accounting, legal and compliance, and risk management to oversee the investment process. The IT development team is divided into sub-teams, which are aligned with different groups in the firm.
