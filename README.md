@@ -6,6 +6,7 @@ Welcome to the Fall 2024 Internship Opportunities board! Below you'll find a com
 
 | Company | Role | Location | Status | Date Posted |
 |---------|------|----------|--------|-------------|
+| [Flow Turbo](https://flowai.tech/back-end-engineer-team-manager-description) | Back-End Engineer Team Manager Intern | Remote | ✔️ Open | ~Jun 20 |
 | [EV.Careers](https://www.linkedin.com/jobs/view/3949571694) | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA (On-site) | ✔️ Open | ~Jun 15 |
 | [Tesla](https://www.linkedin.com/jobs/view/3950983460) | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA (On-site) | ✔️ Open | ~Jun 14 |
 | [Snowflake](https://www.linkedin.com/jobs/view/3947909480) | Software Engineer Intern (Core/Database Engineering) | San Mateo, CA (On-site) | ✔️ Open | ~Jun 11 |
