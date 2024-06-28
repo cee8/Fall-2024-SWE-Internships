@@ -6,6 +6,7 @@ Welcome to the Fall 2024 Internship Opportunities board! Below you'll find a com
 
 | Company | Role | Location | Status | Date Posted |
 |---------|------|----------|--------|-------------|
+| [KLH Engineers](https://www.linkedin.com/jobs/view/3930925581) | Software Engineer Co-Op Fall 2024 | Fort Thomas, KY (On-site) | ✔️ Open | ~May 23 |
 | [SiriusXM](https://www.linkedin.com/jobs/view/3955077171) | Fall Intern, Mobile Software Engineer - Part Time | Oakland, CA (Hybrid) | ✔️ Open | ~Jun 21 |
 | [Cohere](https://www.linkedin.com/jobs/view/3954878643) | Software Engineer Intern/Co-op (Fall 2024) | New York, NY (Hybrid) | ✔️ Open | ~Jun 20 |
 | [Flow Turbo](https://flowai.tech/back-end-engineer-team-manager-description) | Back-End Engineer Team Manager Intern | Remote | ✔️ Open | ~Jun 20 |
