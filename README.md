@@ -6,8 +6,8 @@ Welcome to the Fall 2024 Internship Opportunities board! Below you'll find a com
 
 | Company                                                                                                        | Role                                                 | Location                       | Status  | Date Posted |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------ | ------- | ----------- |
-| [Verkada](https://boards.greenhouse.io/verkada/jobs/4376295007?utm_source=Simplify&gh_src=Simplify)            | Software Engineering Intern                          | San Mateo, CA, USA (On-site)   | ✔️ Open | ~Jun 27     |
-| [Formlabs](https://careers.formlabs.com/job/6075232/apply/?gh_jid=6075232&utm_source=Simplify&gh_src=Simplify) | Desktop Software Intern                              | Cambridge, MA, US (On-site)    | ✔️ Open | ~Jun 27     |
+| [Verkada](https://boards.greenhouse.io/verkada/jobs/4376295007)                                                | Software Engineering Intern                          | San Mateo, CA, USA (On-site)   | ✔️ Open | ~Jun 27     |
+| [Formlabs](https://careers.formlabs.com/job/6075232/apply)                                                     | Desktop Software Intern                              | Cambridge, MA, US (On-site)    | ✔️ Open | ~Jun 27     |
 | [SiriusXM](https://www.linkedin.com/jobs/view/3955077171)                                                      | Fall Intern, Mobile Software Engineer - Part Time    | Oakland, CA (Hybrid)           | ✔️ Open | ~Jun 21     |
 | [Cohere](https://www.linkedin.com/jobs/view/3954878643)                                                        | Software Engineer Intern/Co-op (Fall 2024)           | New York, NY (Hybrid)          | ✔️ Open | ~Jun 20     |
 | [Flow Turbo](https://flowai.tech/back-end-engineer-team-manager-description)                                   | Back-End Engineer Team Manager Intern                | Remote                         | ✔️ Open | ~Jun 20     |
