@@ -4,26 +4,28 @@ Welcome to the Fall 2024 Internship Opportunities board! Below you'll find a com
 
 ## 📋 Internship Listings
 
-| Company | Role | Location | Status | Date Posted |
-|---------|------|----------|--------|-------------|
-| [SiriusXM](https://www.linkedin.com/jobs/view/3955077171) | Fall Intern, Mobile Software Engineer - Part Time | Oakland, CA (Hybrid) | ✔️ Open | ~Jun 21 |
-| [Cohere](https://www.linkedin.com/jobs/view/3954878643) | Software Engineer Intern/Co-op (Fall 2024) | New York, NY (Hybrid) | ✔️ Open | ~Jun 20 |
-| [Flow Turbo](https://flowai.tech/back-end-engineer-team-manager-description) | Back-End Engineer Team Manager Intern | Remote | ✔️ Open | ~Jun 20 |
-| [EV.Careers](https://www.linkedin.com/jobs/view/3949571694) | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA (On-site) | ✔️ Open | ~Jun 15 |
-| [Tesla](https://www.linkedin.com/jobs/view/3950983460) | Embedded Software Engineer Intern, Audio Systems | Palo Alto, CA (On-site) | ✔️ Open | ~Jun 14 |
-| [Snowflake](https://www.linkedin.com/jobs/view/3947909480) | Software Engineer Intern (Core/Database Engineering) | San Mateo, CA (On-site) | ✔️ Open | ~Jun 11 |
-| [GE Aerospace](https://www.linkedin.com/jobs/view/3947189806) | Computer or Software Engineering Intern | Lynn, MA (On-site) | ✔️ Open | Jun 10|
-| [Capstone Investment Advisors](https://www.linkedin.com/jobs/view/3935094651) | Software Engineering Intern | New York, NY (Hybrid) | ✔️ Open | ~Jun 3 |
-| [Susquehanna International Group, LLP (SIG)](https://www.linkedin.com/jobs/view/3935094651) | Software Engineering Intern | Greater Philadelphia (On-site) | ✔️ Open | ~May 28 |
-| [Ventas, Inc.](https://www.linkedin.com/jobs/view/3933764183) | Software Engineering Intern | Chicago, IL (On-site) | ✔️ Open | ~May 28 |
-| [KLH Engineers](https://www.linkedin.com/jobs/view/3930925581) | Software Engineer Co-Op Fall 2024 | Fort Thomas, KY (On-site) | ✔️ Open | ~May 23 |
-
-
+| Company                                                                                                        | Role                                                 | Location                       | Status  | Date Posted |
+| -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------ | ------- | ----------- |
+| [Verkada](https://boards.greenhouse.io/verkada/jobs/4376295007?utm_source=Simplify&gh_src=Simplify)            | Software Engineering Intern                          | San Mateo, CA, USA (On-site)   | ✔️ Open | ~Jun 27     |
+| [Formlabs](https://careers.formlabs.com/job/6075232/apply/?gh_jid=6075232&utm_source=Simplify&gh_src=Simplify) | Desktop Software Intern                              | Cambridge, MA, US (On-site)    | ✔️ Open | ~Jun 27     |
+| [SiriusXM](https://www.linkedin.com/jobs/view/3955077171)                                                      | Fall Intern, Mobile Software Engineer - Part Time    | Oakland, CA (Hybrid)           | ✔️ Open | ~Jun 21     |
+| [Cohere](https://www.linkedin.com/jobs/view/3954878643)                                                        | Software Engineer Intern/Co-op (Fall 2024)           | New York, NY (Hybrid)          | ✔️ Open | ~Jun 20     |
+| [Flow Turbo](https://flowai.tech/back-end-engineer-team-manager-description)                                   | Back-End Engineer Team Manager Intern                | Remote                         | ✔️ Open | ~Jun 20     |
+| [EV.Careers](https://www.linkedin.com/jobs/view/3949571694)                                                    | Embedded Software Engineer Intern, Audio Systems     | Palo Alto, CA (On-site)        | ✔️ Open | ~Jun 15     |
+| [Tesla](https://www.linkedin.com/jobs/view/3950983460)                                                         | Embedded Software Engineer Intern, Audio Systems     | Palo Alto, CA (On-site)        | ✔️ Open | ~Jun 14     |
+| [Snowflake](https://www.linkedin.com/jobs/view/3947909480)                                                     | Software Engineer Intern (Core/Database Engineering) | San Mateo, CA (On-site)        | ✔️ Open | ~Jun 11     |
+| [GE Aerospace](https://www.linkedin.com/jobs/view/3947189806)                                                  | Computer or Software Engineering Intern              | Lynn, MA (On-site)             | ✔️ Open | Jun 10      |
+| [Capstone Investment Advisors](https://www.linkedin.com/jobs/view/3935094651)                                  | Software Engineering Intern                          | New York, NY (Hybrid)          | ✔️ Open | ~Jun 3      |
+| [Susquehanna International Group, LLP (SIG)](https://www.linkedin.com/jobs/view/3935094651)                    | Software Engineering Intern                          | Greater Philadelphia (On-site) | ✔️ Open | ~May 28     |
+| [Ventas, Inc.](https://www.linkedin.com/jobs/view/3933764183)                                                  | Software Engineering Intern                          | Chicago, IL (On-site)          | ✔️ Open | ~May 28     |
+| [KLH Engineers](https://www.linkedin.com/jobs/view/3930925581)                                                 | Software Engineer Co-Op Fall 2024                    | Fort Thomas, KY (On-site)      | ✔️ Open | ~May 23     |
 
 ### Department
+
 The IT development team creates applications and technical tools for different teams within the firm. These applications include investment management tools for traders, systems to automatically process trades, tools for accounting, legal and compliance, and risk management to oversee the investment process. The IT development team is divided into sub-teams, which are aligned with different groups in the firm.
 
 ### Desirable Candidates
+
 - Proficiency in SQL with hands-on project experience a plus
 - Some proficiency in either C# or C++ a plus
 - Fast learner and able to contribute with a team-player mentality
@@ -63,7 +65,4 @@ We encourage you to contribute to this list to keep it accurate and up-to-date. 
    ```
 7. **Create a Pull Request**: Go to the original repository and create a pull request from your forked repository.
 
-
 Thank you for contributing and helping others find their ideal internships!
-
-
