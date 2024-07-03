@@ -6,6 +6,7 @@ Welcome to the Fall 2024 Internship Opportunities board! Below you'll find a com
 
 | Company                                                                                                        | Role                                                 | Location                       | Status  | Date Posted |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------ | ------- | ----------- |
+| [ClearanceJobs](https://www.linkedin.com/jobs/view/3965390680)                                                 | Software Engineer with Security Clearance            | Fall River, MA (On-site)       | ✔️ Open | ~Jun 22     |
 | [Verkada](https://boards.greenhouse.io/verkada/jobs/4376295007)                                                | Software Engineering Intern                          | San Mateo, CA, USA (On-site)   | ✔️ Open | ~Jun 27     |
 | [Formlabs](https://careers.formlabs.com/job/6075232/apply)                                                     | Desktop Software Intern                              | Cambridge, MA, US (On-site)    | ✔️ Open | ~Jun 27     |
 | [SiriusXM](https://www.linkedin.com/jobs/view/3955077171)                                                      | Fall Intern, Mobile Software Engineer - Part Time    | Oakland, CA (Hybrid)           | ✔️ Open | ~Jun 21     |
