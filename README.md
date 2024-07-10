@@ -6,7 +6,7 @@ Welcome to the Fall 2024 Internship Opportunities board! Below you'll find a com
 
 | Company                                                                                                        | Role                                                 | Location                       | Status  | Date Posted |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------ | ------- | ----------- |
-| [Tesla](https://www.linkedin.com/jobs/view/3969277085)                                                         | Internship, Software Engineer, Integration           | Palo Alto, CA (On-site)        | ✔️ Open | ~Jul 8     |
+| [Tesla](https://www.linkedin.com/jobs/view/3969277085)                                                         | Internship, Software Engineer, Integration           | Palo Alto, CA (On-site)        | X Closed | ~Jul 8     |
 | [Spot Freight](https://www.linkedin.com/jobs/view/3948896645)                                                  | Software Developer Internship - Fall 2024            | Indianapolis, IN (On-site)     | ✔️ Open | ~Jul 4      |
 | [ClearanceJobs](https://www.linkedin.com/jobs/view/3965390680)                                                 | Software Engineer with Security Clearance            | Fall River, MA (On-site)       | ✔️ Open | ~Jul 1      |
 | [Verkada](https://boards.greenhouse.io/verkada/jobs/4376295007)                                                | Software Engineering Intern                          | San Mateo, CA, USA (On-site)   | ✔️ Open | ~Jun 27     |
