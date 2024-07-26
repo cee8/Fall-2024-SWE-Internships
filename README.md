@@ -6,6 +6,7 @@ Welcome to the Fall 2024 Internship Opportunities board! Below you'll find a com
 
 | Company                                                                                                        | Role                                                 | Location                       | Status  | Date Posted |
 | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------ | ------- | ----------- |
+| [TikTok](https://careers.tiktok.com/position/7393142017972275483/detail) | Backend Software Engineer Intern (TikTok Open Platform) - 2025 Summer | San Jose, CA (On-site) | ✔️ Open | ~Jul 20 |
 | [Tesla](https://www.linkedin.com/jobs/view/3969277085)                                                         | Internship, Software Engineer, Integration           | Palo Alto, CA (On-site)        | X Closed | ~Jul 8     |
 | [Spot Freight](https://www.linkedin.com/jobs/view/3948896645)                                                  | Software Developer Internship - Fall 2024            | Indianapolis, IN (On-site)     | ✔️ Open | ~Jul 4      |
 | [ClearanceJobs](https://www.linkedin.com/jobs/view/3965390680)                                                 | Software Engineer with Security Clearance            | Fall River, MA (On-site)       | ✔️ Open | ~Jul 1      |
